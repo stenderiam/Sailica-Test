@@ -1,0 +1,80 @@
+  @font-face {
+      font-family: "Circular-medium";
+      src: url('/FontCirculaStd/CircularStd-Medium.otf') format("opentype");
+  }
+
+  @font-face {
+      font-family: "Circular-Black";
+      src: url('/FontCirculaStd/Circular-Black.ttf') format("truetype");
+  }
+
+  @font-face {
+      font-family: "CircularStd-Book";
+      src: url('/FontCirculaStd/CircularStd-Book.otf') format("opentype");
+  }
+
+  .container {
+      color: #374c60;
+      font-family: "CircularStd-Book";
+      background-color: white;
+  }
+
+  .catalog {
+      display: flex;
+      width: 100%;
+      max-width: 1445px;
+      justify-content: center;
+      margin: 69px 30px 30px 30px;
+      background-color: white;
+  }
+
+  .fixedTop {
+      position: fixed;
+      top: 0;
+      right: 0;
+      left: 0;
+      z-index: 1030;
+  }
+
+  .cardsСolumn {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: 1054px;
+  }
+
+  @media(max-width: 1200px) {
+      .cardsСolumn {
+          border-right: 0;
+          border-left: 0;
+      }
+  }
+
+  .centered {
+      display: flex;
+      justify-content: center;
+  }
+
+  .sidebar {
+      width: 100%;
+      max-width: 400px;
+  }
+
+  @media(max-width: 1200px) {
+      .sidebar {
+          max-width: 0;
+      }
+  }
+
+  @media(max-width: 1024px) {
+      .catalog {
+          display: flex;
+          flex-direction: column;
+      }
+  }
+
+  @media(max-width: 780px) {
+      .catalog {
+          margin: 69px 16px 16px 16px;
+      }
+  }

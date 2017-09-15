@@ -1,0 +1,23 @@
+.input {
+    outline: none;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+}
+
+.navMobileBackground {
+    background-color: #3d7ede;
+}
+
+a {
+    text-decoration: none;
+}
+
+.spaceBetween {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* @media screen and (min-device-width: 1024px) 
+and (max-device-width: 1920px)*/

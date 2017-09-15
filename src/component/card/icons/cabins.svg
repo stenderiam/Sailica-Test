@@ -1,0 +1,49 @@
+<svg width="10" height="13" viewBox="0 0 10 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>&#128;&#137;&#182;</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8042 -276)">
+<rect x="8042" y="276" width="10" height="13" fill="#FFFFFF"/>
+ clip-path="url(#clip-0)"<g id="02e_catalog">
+<path d="M 7573 -1L 9013 -1L 9013 1612L 7573 1612L 7573 -1Z" fill="#FFFFFF"/>
+<g id="yacht in catalog">
+<g id="Rectangle 5">
+<use xlink:href="#path0_fill" transform="translate(7612 134)" fill="#FFFFFF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(7612 134)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(7612 134)" fill="#EBF1FA"/>
+</g>
+</g>
+<g id="Group 10">
+<g id="Rectangle 3 Copy">
+<use xlink:href="#path2_fill" transform="translate(8042 276)" fill="#E1E8F4"/>
+<mask id="mask1_outline_ins">
+<use xlink:href="#path2_fill" fill="white" transform="translate(8042 276)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path3_stroke_2x" transform="translate(8042 276)" fill="#62738D"/>
+</g>
+</g>
+<g id="Oval 5">
+<use xlink:href="#path4_fill" transform="translate(8044.27 278.357)" fill="#E1E8F4"/>
+<mask id="mask2_outline_ins">
+<use xlink:href="#path4_fill" fill="white" transform="translate(8044.27 278.357)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path5_stroke_2x" transform="translate(8044.27 278.357)" fill="#62738D"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 981 0L 981 200L 0 200L 0 0Z"/>
+<path id="path1_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 981 0L 982 0L 982 -1L 981 -1L 981 0ZM 981 200L 981 201L 982 201L 982 200L 981 200ZM 0 200L -1 200L -1 201L 0 201L 0 200ZM 0 1L 981 1L 981 -1L 0 -1L 0 1ZM 980 0L 980 200L 982 200L 982 0L 980 0ZM 981 199L 0 199L 0 201L 981 201L 981 199ZM 1 200L 1 0L -1 0L -1 200L 1 200Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 2C 0 0.895431 0.895431 0 2 0L 7.45455 0C 8.55911 0 9.45455 0.895431 9.45455 2L 9.45455 11C 9.45455 12.1046 8.55911 13 7.45455 13L 2 13C 0.895431 13 0 12.1046 0 11L 0 2Z"/>
+<path id="path3_stroke_2x" d="M 2 1L 7.45455 1L 7.45455 -1L 2 -1L 2 1ZM 8.45455 2L 8.45455 11L 10.4545 11L 10.4545 2L 8.45455 2ZM 7.45455 12L 2 12L 2 14L 7.45455 14L 7.45455 12ZM 1 11L 1 2L -1 2L -1 11L 1 11ZM 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2C 1 1.44772 1.44772 1 2 1L 2 -1ZM 7.45455 1C 8.00683 1 8.45455 1.44772 8.45455 2L 10.4545 2C 10.4545 0.343146 9.1114 -1 7.45455 -1L 7.45455 1ZM 8.45455 11C 8.45455 11.5523 8.00683 12 7.45455 12L 7.45455 14C 9.1114 14 10.4545 12.6569 10.4545 11L 8.45455 11ZM 2 12C 1.44772 12 1 11.5523 1 11L -1 11C -1 12.6569 0.343146 14 2 14L 2 12Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 2.36364 4.64286C 3.66904 4.64286 4.72727 3.60352 4.72727 2.32143C 4.72727 1.03934 3.66904 0 2.36364 0C 1.05824 0 0 1.03934 0 2.32143C 0 3.60352 1.05824 4.64286 2.36364 4.64286Z"/>
+<path id="path5_stroke_2x" d="M 2.36364 5.64286C 4.20426 5.64286 5.72727 4.17271 5.72727 2.32143L 3.72727 2.32143C 3.72727 3.03432 3.13382 3.64286 2.36364 3.64286L 2.36364 5.64286ZM 5.72727 2.32143C 5.72727 0.470144 4.20426 -1 2.36364 -1L 2.36364 1C 3.13382 1 3.72727 1.60853 3.72727 2.32143L 5.72727 2.32143ZM 2.36364 -1C 0.523014 -1 -1 0.470144 -1 2.32143L 1 2.32143C 1 1.60853 1.59346 1 2.36364 1L 2.36364 -1ZM -1 2.32143C -1 4.17271 0.523014 5.64286 2.36364 5.64286L 2.36364 3.64286C 1.59346 3.64286 1 3.03432 1 2.32143L -1 2.32143Z"/>
+</defs>
+</svg>
